@@ -1,0 +1,10 @@
+{
+  "upgradeMultivalue": 1,
+  "upgradeFillrate": 2,
+  "upgradeCoinlimit": 3,
+  "upgradeYespac": 4,
+  "upgradeBoosts": true,
+  "countdown": 30,
+  "country_time": "en-US",
+  "limit": 1000
+}
