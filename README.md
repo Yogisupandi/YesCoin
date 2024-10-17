@@ -1,0 +1,2 @@
+# YesCoin
+YesCoin - AirDrop Script
